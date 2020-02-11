@@ -15,7 +15,7 @@ Windows 10 的驱动升级机制似乎是某种双轨制。 分别受“指定�
 * **KVM**：Linux 5.5.2
 * **QEMU**：4.2.0
 * **libvirt**：5.10.0
-* **虚拟机配置**：\[ZLZD-driver.xml\]\(ZLZD-driver.xml\)
+* **虚拟机配置**：[ZLZD-driver.xml](ZLZD-driver.xml)
 * **Windows**：Windows 10 LTSC 2019，接入测试设备前Windows Update升级到最新（2020.02.10，KB4534321，版本号17763.1012）
 
 ## 不同的设备情况和更新方式的说明
