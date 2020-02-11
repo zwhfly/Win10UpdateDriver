@@ -38,10 +38,10 @@ Windows 10 的驱动升级机制似乎是某种双轨制。 分别受“指定�
 `-d`表示禁用设备后再测试。
 
 “老”版本的驱动信息如下：
-* **9560BT**：73d5ad64-132b-4bd6-87d4-51d38cbc579c_035a3067ecc07979a632a7d866064c5ae58ce406.cab，来自 Microsoft Update Catalog，dpinst.exe 安装，驱动日期为2017/10/15，驱动版本号为20.10.0.5，匹配设备 ID 为`USB\VID_8087&PID_0AAA&REV_0002`
-* **GTX1050**：397.31-notebook-win10-64bit-international-whql.exe，来自 guru3d.com，驱动日期为2018/4/22，驱动版本号为24.21.13.9731，匹配设备 ID 为 `PCI\VEN_10DE&DEV_1C8D&SUBSYS_10441D05`
-* **M570**：20403361_968e64cad47777002bfa6f2995f05b12b6716fc8.cab，来自 Microsoft Update Catalog，dpinst.exe 安装，驱动日期为2010/12/6，驱动版本号为1.0.3.0，匹配设备 ID 为`USB\VID_046D&PID_C52B&MI_00`
-* **RTL8152**：20545443_0d41603d67c51aa85769544ea492f06ee32909ea.cab，来自 Microsoft Update Catalog，dpinst.exe 安装，驱动日期为2013/2/27，驱动版本号为7.10.227.2013，匹配设备 ID 为`USB\VID_0BDA&PID_8152&REV_2000`
+* **9560BT**：[73d5ad64-132b-4bd6-87d4-51d38cbc579c_035a3067ecc07979a632a7d866064c5ae58ce406.cab](73d5ad64-132b-4bd6-87d4-51d38cbc579c_035a3067ecc07979a632a7d866064c5ae58ce406.cab)，来自 Microsoft Update Catalog，dpinst.exe 安装，驱动日期为2017/10/15，驱动版本号为20.10.0.5，匹配设备 ID 为`USB\VID_8087&PID_0AAA&REV_0002`
+* **GTX1050**：[397.31-notebook-win10-64bit-international-whql.exe](https://www.guru3d.com/files-details/geforce-397-31-whql-driver-download.html)，来自 guru3d.com，驱动日期为2018/4/22，驱动版本号为24.21.13.9731，匹配设备 ID 为 `PCI\VEN_10DE&DEV_1C8D&SUBSYS_10441D05`
+* **M570**：[20403361_968e64cad47777002bfa6f2995f05b12b6716fc8.cab](20403361_968e64cad47777002bfa6f2995f05b12b6716fc8.cab)，来自 Microsoft Update Catalog，dpinst.exe 安装，驱动日期为2010/12/6，驱动版本号为1.0.3.0，匹配设备 ID 为`USB\VID_046D&PID_C52B&MI_00`
+* **RTL8152**：[20545443_0d41603d67c51aa85769544ea492f06ee32909ea.cab](20545443_0d41603d67c51aa85769544ea492f06ee32909ea.cab)，来自 Microsoft Update Catalog，dpinst.exe 安装，驱动日期为2013/2/27，驱动版本号为7.10.227.2013，匹配设备 ID 为`USB\VID_0BDA&PID_8152&REV_2000`
 
 ## 不同的更新方式
 
